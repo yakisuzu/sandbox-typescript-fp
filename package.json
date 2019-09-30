@@ -1,0 +1,19 @@
+{
+  "name": "sandbox-typescript-fp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^12.7.8",
+    "@types/node-fetch": "^2.5.2",
+    "node-fetch": "^2.6.0",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.3"
+  },
+  "scripts": {
+    "index": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "MIT"
+}
